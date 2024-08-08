@@ -1,0 +1,1 @@
+HttpRequest包装类，支持socks5代理，支持socks5代理的账号密码认证模式
